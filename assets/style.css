@@ -1,6 +1,6 @@
 .nav-title {
   color: burlywood;
-  padding-left: 730px;
+  padding-left: 430px;
   padding-top: 30px;
 }
 .about-me {
@@ -17,6 +17,11 @@
   height: 400px;
   width: 1200px;
   padding: 10px;
+}
+.nav-all {
+  background-color: rgb(6, 7, 14);
+  margin-left: 65px;
+  margin-right: 60px;
 }
 .my-pic {
   width: 70%;
