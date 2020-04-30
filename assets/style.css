@@ -31,6 +31,9 @@
 }
 .outer-div {
   padding-top: 50px;
+}
+.project-outer-div {
+  padding-top: 50px;
   padding-left: 70px;
 }
 .nav-home {
@@ -45,5 +48,5 @@
 }
 .project-cards {
   width: 500px;
-  height: 500px;
+  height: 400px;
 }
